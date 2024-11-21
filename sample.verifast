@@ -1,0 +1,5 @@
+// input pins
+pin pAi, pBi, pCi
+
+// output pins
+pin pAo, pBo, pCo
